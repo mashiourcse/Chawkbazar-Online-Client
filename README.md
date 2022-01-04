@@ -1,7 +1,7 @@
-# Smart Grocery Delivery Shop
+# Chawkbazar Online 
 
 # Live Site
-[smart-grocery-delivery-shop-ctg](https://smart-grocery-shop-ctg-94619.web.app/)
+[Chawkbazar-Online](https://smart-grocery-shop-ctg-94619.web.app/)
 
 # Description
 It is a Firebase and Mongodb integrated full stack web application where you can order grocery items online easily. If you click on buy now button you will be redirected to login page and after login you can buy products, can see your order as a consumer and you can add, manage product to your shop as an admin. 
@@ -28,6 +28,6 @@ It is a Firebase and Mongodb integrated full stack web application where you can
 - React Bootstrap 
 - Bootstrap
 
-[Back-end Repository](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-mashiourcse)
+
 
 
